@@ -13,7 +13,7 @@
 </div>
 <img src="https://gpvc.arturio.dev/kalanikasthuriarachchi" alt=""/>
 <h1>
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,<br/> I am Kalani Randika
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,<br/> I am Kalani Kasthuriarachchi
 </h1>
 </div>
 
@@ -67,7 +67,7 @@ I am a Full Stack Developer from Sri Lanka.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working in Center for Defense Research and Development, Ministry of Defense Sri Lanka
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

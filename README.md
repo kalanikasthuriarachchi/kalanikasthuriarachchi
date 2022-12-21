@@ -23,9 +23,9 @@ I am a Full Stack Developer from Sri Lanka.
 
 - :telescope: I am currently studying software engineering at NSBM Green University.
 
-- :seedling: Exploring Technical Content.
+- 🔭 I’m currently working in Center for Defense Research and Development, Ministry of Defense Sri Lanka as a assistant software engineer
 
-- 
+- :seedling: Exploring Technical Content.
 
 - 💬 Ask me about anything.
 

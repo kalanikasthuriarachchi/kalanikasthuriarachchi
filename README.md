@@ -42,7 +42,7 @@ I am a Full Stack Developer from Sri Lanka.
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;&nbsp;
-</div>
+
 
 
 ### 🏆 Achievements (2022):
@@ -59,7 +59,7 @@ I am a Full Stack Developer from Sri Lanka.
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 
-
+</div>
 
 
 <!--
